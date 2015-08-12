@@ -1,5 +1,3 @@
-https://imagelayers.io/?images=inspectit/tomcat:latest
-
 # What is this?
 
 This is the TicketMonster distribution, a showcase application for [JBoss Developer Framework](http://jboss.org/jdf).
